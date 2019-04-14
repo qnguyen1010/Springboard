@@ -6,3 +6,5 @@
 =======
 # Master change
 >>>>>>> master
+
+# Final change
